@@ -5,11 +5,12 @@ This project demonstrates a basic implementation of Firebase authentication in a
 
 
 <h2>Images</h2>
-<img src="![WhatsApp Image 2024-02-20 at 16 12 52_b16f513a](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/2f976e2b-bd3f-4b35-ae1a-24b08949cb69)">
-<img src="![WhatsApp Image 2024-02-20 at 16 13 44_585860fe](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/0eab9783-660f-4377-b811-7b32ab4db27b)">
-<img src="![WhatsApp Image 2024-02-20 at 16 14 19_b091df34](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/a3876310-aec3-4921-a1b1-930e3eac9f31)">
-<img src="![WhatsApp Image 2024-02-20 at 16 19 13_f2095a79](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/66637db9-6b6d-4c88-a1e7-4f5dbcc6d5c5)">
-
+<p align="center">
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.12.52_b16f513a.jpg" width="350" >
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.13.44_585860fe.jpg" width="350">
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.14.19_b091df34.jpg" width="350" >
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.19.13_f2095a79.jpg" width="350">
+</p>
 
 
 <h2>Setup Instructions</h2>
