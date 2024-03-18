@@ -6,10 +6,10 @@ This project demonstrates a basic implementation of Firebase authentication in a
 
 <h2>Images</h2>
 <p align="center">
-  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.12.52_b16f513a.jpg" width="350" >
-  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.13.44_585860fe.jpg" width="350">
-  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.14.19_b091df34.jpg" width="350" >
-  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.19.13_f2095a79.jpg" width="350">
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.12.52_b16f513a.jpg" width="700" >
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.13.44_585860fe.jpg" width="700">
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.14.19_b091df34.jpg" width="700" >
+  <img src="src/components/images/WhatsApp Image 2024-02-20 at 16.19.13_f2095a79.jpg" width="700">
 </p>
 
 
