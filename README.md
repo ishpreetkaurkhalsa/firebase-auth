@@ -5,10 +5,11 @@ This project demonstrates a basic implementation of Firebase authentication in a
 
 
 <h2>Images</h2>
-![WhatsApp Image 2024-02-20 at 16 12 52_ea01f390](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/2bf115eb-9ff3-4f18-8547-a16b16976660)
-![WhatsApp Image 2024-02-20 at 16 13 44_e3b3cefe](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/1c562aca-9268-48c9-b7e3-ba98bd77011e)
-![WhatsApp Image 2024-02-20 at 16 14 19_c68a53ef](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/6b033ad9-fd58-4ad1-9174-bfbc04932142)
-![WhatsApp Image 2024-02-20 at 16 19 13_cc677661](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/9b58d36a-831f-4e75-b311-c516bd453c11)
+![WhatsApp Image 2024-02-20 at 16 12 52_b16f513a](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/2f976e2b-bd3f-4b35-ae1a-24b08949cb69)
+![WhatsApp Image 2024-02-20 at 16 13 44_585860fe](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/0eab9783-660f-4377-b811-7b32ab4db27b)
+![WhatsApp Image 2024-02-20 at 16 14 19_b091df34](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/a3876310-aec3-4921-a1b1-930e3eac9f31)
+![WhatsApp Image 2024-02-20 at 16 19 13_f2095a79](https://github.com/ishpreetkaurkhalsa/firebase-auth/assets/113664759/66637db9-6b6d-4c88-a1e7-4f5dbcc6d5c5)
+
 
 
 <h2>Setup Instructions</h2>
